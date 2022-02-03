@@ -1,4 +1,4 @@
 SHELL=/bin/zsh
 PATH=/usr/local/bin:/usr/bin:$PATH
-23 23 * * * prompt_me >/tmp/stdout.log 2>/tmp/stderr.log
+00 15 * * * prompt_me >/tmp/stdout.log 2>/tmp/stderr.log
 
